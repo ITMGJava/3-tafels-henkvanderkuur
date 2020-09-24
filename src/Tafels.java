@@ -10,7 +10,7 @@ public class Tafels {
         var h = a * 8;
         var i = a * 9;
         var j = a * 10;
-        System.out.println("1 x "+a+" = "+a);
+        System.out.println("1 x "+a+" = " +a);
         System.out.println("2 x "+a+" = "+b);
         System.out.println("3 x "+a+" = "+c);
         System.out.println("4 x "+a+" = "+d);
