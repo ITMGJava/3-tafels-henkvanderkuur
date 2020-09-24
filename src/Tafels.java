@@ -10,26 +10,17 @@ public class Tafels {
         var h = a * 8;
         var i = a * 9;
         var j = a * 10;
-        System.out.print("1 x " + a);
-        System.out.println(" = " + a);
-        System.out.print("2 x " +a);
-        System.out.println(" = " + b);
-        System.out.print("3 x " +a);
-        System.out.println(" = " + c);
-        System.out.print("4 x " +a);
-        System.out.println(" = " + d);
-        System.out.print("5 x " +a);
-        System.out.println(" = " + e);
-        System.out.print("6 x " +a);
-        System.out.println(" = " + f);
-        System.out.print("7 x " +a);
-        System.out.println(" = " + g);
-        System.out.print("8 x " +a);
-        System.out.println(" = " + h);
-        System.out.print("9 x " +a);
-        System.out.println(" = " + i);
-        System.out.print("10 x " +a);
-        System.out.println(" = " + j);
+        System.out.println("1 x " +a+" = " +a);
+        System.out.println("2 x " +a+" = " +b);
+        System.out.println("3 x " +a+" = " +c);
+        System.out.println("4 x " +a+" = " +d);
+        System.out.println("5 x " +a+" = " +e);
+        System.out.println("6 x " +a+" = " +f);
+        System.out.println("7 x " +a+" = " +g);
+        System.out.println("8 x " +a+" = " +h);
+        System.out.println("9 x " +a+" = " +i);
+        System.out.println("10 x " +a+" = " +j);
+
 
     }
 }
